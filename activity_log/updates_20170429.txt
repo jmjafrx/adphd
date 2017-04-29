@@ -1,0 +1,9 @@
+# Updates made to africandiasporaphd.com
+
+* deleted the about image in the sidebar/footer
+* deleted the adphd blogosphere badge in the sidebar/footer
+* changed template to Snaps
+* using the portfolio feature to highlight posts by key tags
+* created an “exhibition” portfolio for future use
+* fixed redundant widgets in the sidebar/footers
+* deleted follow on tumblr image widget
